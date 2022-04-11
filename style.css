@@ -1,0 +1,237 @@
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+    margin: 0;
+}
+
+.header{
+    width:100%;
+    height: 90px;
+    background-color: #009b4e;
+    display: flex;
+    justify-content: space-between;
+}
+.pic2{
+    width: 72px;
+    height: 50px;
+    position: relative;
+    margin-top: 18px;
+}
+
+.position{
+    
+    margin-left: 155px;
+ margin-top: 22px;
+ padding-left: 10px;
+}
+
+.position a{
+    font-size: 14px;
+    font-weight: 1000;
+}
+
+.icons{
+    
+   width: 285px;
+   height: 28px;
+   display: flex;
+   margin-top: 30px;
+   
+   
+}
+
+.icon_1{
+    width:30px;
+    height:30px;
+    margin-right: 15px;
+}
+a{
+    margin-right: 40px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    color: white;
+    font-style: italic;
+}
+.link:hover{
+    background-color: black;
+}
+.nav_link{
+    position: relative;
+    left: -135px;
+    top: 37px;
+}
+
+.body1{
+    height:550px;
+    width:100%;
+    background-image: url(stay_crisp_hero.jpg);
+    background-size: 100%,700px;
+    background-repeat: no-repeat;
+}
+.innerimage{
+    height:400px;
+    width:100%;
+    position: absolute;
+    padding-left: 100px;
+    padding-top: 50px;
+
+}
+#button1{
+    height:30px;
+    width:350px;
+    background-color: black;
+    color: aliceblue;
+    border:2px solid white;
+    position: relative;
+    left: -336px;
+    top: 46px;
+}
+.body2{
+    width:100%;
+    height:700px;
+    background-image:url(sprite-thirst-for-yours-desktop.jpg);
+}
+.body3{
+    height: 650px;
+    background-color: black;
+    background-repeat: no-repeat;
+    margin-top: -25px;
+    width: 100%;
+    
+    }
+    .body3 img{
+        position:absolute;
+        padding-left: 250px;
+        padding-top: 50px;
+        left: -15px;
+        top: 1360px;
+    }
+ 
+    .black span{
+        color: #009b4e;
+    }
+    .body1_sub1{
+        width: 100%;
+        height: 300px;
+
+    }
+    .body1_sub2{
+        width: 100%;
+        height: 350px;
+           
+        font-size: larger;
+        font-style: italic;
+        color: white;
+        padding-left: 400px;
+        padding-bottom: 500px;
+        position: relative;
+        left: 4px;
+        top: 265px;
+        font-family: "FuturaBT W05 ExtraBlack Italic";
+    font-weight: 400;
+        
+    }
+    .body1_sub2 h1{
+        margin-top: 20px;
+            margin: 0 0 0 -30px;
+            margin-top: -250px;
+            position: absolute;
+    }
+.body4{
+    width:100%;
+    height: 175px;
+    background-color: black;
+    justify-content: end ;
+    
+
+}
+.thirst{
+    width: 100%;
+}
+.body5{
+    
+    width:100%;
+    justify-content: center;
+    padding-left: 350px;
+    
+
+}
+.body6{
+    width:100%;
+    display: flex;
+    height: 500px;
+    padding-left: 60px;
+}
+
+.bottle1{
+    height: 450px;
+    }
+
+.bottle2{
+    height: 450px;
+    margin-left: -40px;
+}
+.bottle2 img{
+    position: absolute;
+    left: 530px;
+    top: 2669px;
+}
+.bottle1 h1 {
+    margin-top: -400px;
+
+}
+
+bottle1 h4{
+    margin-top: -350px;
+}
+
+.body7{
+    height:500px;
+    width: 100%;
+    background-image: url(sprite-bottle-and-lymon-background.jpg);
+}
+.foot{
+    height:570px;
+    width:100%;
+    background-color: #009b4e;
+}
+
+.one{
+    margin-left: 100px;
+    padding-top: 100px;
+}
+.products{
+    position: absolute;
+    margin-left: 900px;
+    box-sizing: border-box;
+    top: 3783px;
+    color: white;
+    text-decoration: solid;
+    font-style: italic;
+}
+.connect{
+    margin-left: 400px;
+    margin-top: -100px;
+    color: white;
+}
+.bottom{
+    margin-left: 350px;
+    margin-top: 280px;
+    color: white;
+}
+span{
+    color:green;
+}
+.button2{
+    background-color: #009b4e;
+    width:150px;
+    height:50px;
+    font-weight: 500;
+    color: white;
+    font-size: larger;
+    font-style: italic;
+}
